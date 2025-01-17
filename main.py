@@ -209,7 +209,7 @@ def print_header():
     header = """
 ╔══════════════════════════════════════════╗
 ║   Taker.xyz Referral Bot + Auto Tasks    ║
-║   Github: https://github.com/im-hanzou   ║
+║   Github: https://github.com/Mittyadav   ║
 ╚══════════════════════════════════════════╝"""
     print(f"{Fore.CYAN}{header}{Style.RESET_ALL}")
 
